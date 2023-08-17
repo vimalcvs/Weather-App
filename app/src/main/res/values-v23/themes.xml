@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Platform.V23.Theme.Apps" parent="Platform.V21.Theme.Apps">
+        <item name="colorPrimaryDark">@color/color_surface</item>
+        <item name="android:windowLightStatusBar">?isLightTheme</item>
+    </style>
+
+    <style name="Platform.Theme.Apps" parent="Platform.V23.Theme.Apps" />
+</resources>

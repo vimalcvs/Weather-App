@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_icon">@color/color_accent</color>
+
+
+    <color name="color_accent">#28D8A1</color>
+    <color name="color_background">#162233</color>
+    <color name="color_card">#23384F</color>
+    <color name="color_primary">#4C83FF</color>
+    <color name="color_surface">#23384F</color>
+
+
+    <color name="text_fourth">#52FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCFFFFFF</color>
+    <color name="text_third">#99FFFFFF</color>
+
+</resources>
